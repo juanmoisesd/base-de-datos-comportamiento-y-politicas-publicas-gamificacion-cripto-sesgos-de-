@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite this dataset using the metadata below."
+type: dataset
+title: "Base de datos: Comportamiento y Políticas Públicas — Gamificación cripto, sesgos de anclaje en subsidios verdes y aversión al riesgo migratorio en Latinoamérica (2022-2025)"
+authors:
+  - family-names: "de la Serna Tuya"
+    given-names: "Juan Moisés"
+    orcid: "https://orcid.org/0000-0002-8401-8018"
+    affiliation: "Universidad Internacional de La Rioja (UNIR)"
+doi: "10.5281/zenodo.19017501"
+url: "https://doi.org/10.5281/zenodo.19017501"
+repository-code: "https://github.com/juanmoisesd/base-de-datos-comportamiento-y-politicas-publicas-gamificacion-cripto-sesgos-de-"
+license: CC0-1.0
+date-released: "2026-03-14"
+keywords:
+  - "gamificacion"
+  - "criptomonedas"
+  - "politicas publicas"
+  - "migracion latinoamerica"
+  - "subsidios verdes"
+  - "economia del comportamiento"
