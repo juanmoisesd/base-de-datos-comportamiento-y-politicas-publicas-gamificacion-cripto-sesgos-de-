@@ -38,6 +38,17 @@ Base de datos en formato CSV sobre comportamiento y políticas públicas, compil
 - Generar modelos econométricos / de machine learning sobre adopción cripto o intención migratoria.
 - Integrar estos módulos con otras bases abiertas de Latinoamérica para análisis comparativos.
 
+## Analysis & results (overview)
+
+Los notebooks y scripts en la carpeta `analysis/` (`analysis.ipynb`, `analysis.R`, `analysis.py`) contienen ejemplos reproducibles de carga del dataset, estadísticos descriptivos y visualizaciones básicas (tendencias temporales y distribuciones de variables clave).
+
+A modo ilustrativo, los análisis muestran:
+- Tendencias simuladas en adopción de criptomonedas, subsidios verdes y migración para el periodo 2000–2023 (ejemplos sintéticos).
+- Estadísticos descriptivos (medias, desviaciones estándar) por módulo para facilitar comparaciones iniciales.
+
+Estos scripts están pensados como plantillas: basta con sustituir los datos sintéticos por el CSV descargado desde Zenodo para replicar y extender el análisis.
+
+
 ## Keywords
 
 gamificacion, criptomonedas, politicas publicas, migracion latinoamerica, subsidios verdes, economia del comportamiento
