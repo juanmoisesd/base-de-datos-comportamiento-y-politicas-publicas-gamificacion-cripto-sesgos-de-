@@ -1,0 +1,24 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "Dataset",
+  "name": "Base de datos: Comportamiento y Pol\u00edticas P\u00fablicas \u2014 Gamificaci\u00f3n cripto, sesgos de anclaje en subsidios verdes y aversi\u00f3n al riesgo migratorio en Latinoam\u00e9rica (2022-2025)",
+  "identifier": "10.5281/zenodo.19017501",
+  "url": "https://doi.org/10.5281/zenodo.19017501",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Mois\u00e9s",
+      "familyName": "de la Serna Tuya",
+      "@id": "https://orcid.org/0000-0002-8401-8018"
+    }
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "keywords": [
+    "gamificacion",
+    "criptomonedas",
+    "politicas publicas",
+    "migracion latinoamerica",
+    "subsidios verdes",
+    "economia del comportamiento"
+  ]
+}
