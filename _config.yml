@@ -1,5 +1,20 @@
-title: "Base de datos: Comportamiento y Políticas Públicas — Gamific"
-description: "Base de datos en formato CSV sobre comportamiento y pol&iacute;ticas p&uacute;blicas, compilada desde fuentes secundarias v&iacute;a Perplexity AI (ma"
+title: "Base de datos: Comportamiento y Políticas Públicas"
+tagline: "Gamificación cripto, sesgos de anclaje en subsidios verdes y aversión al riesgo migratorio en Latinoamérica (2022–2025)"
+description: "Base de datos en formato CSV sobre economía del comportamiento aplicada a políticas públicas: gamificación y adopción de criptomonedas, subsidios verdes y migración en Latinoamérica. Compilada desde fuentes secundarias vía Perplexity AI (marzo 2026)."
 author: "Juan Moisés de la Serna Tuya"
+
 url: "https://juanmoisesd.github.io"
 baseurl: "/base-de-datos-comportamiento-y-politicas-publicas-gamificacion-cripto-sesgos-de-"
+
+theme: jekyll-theme-minimal
+lang: "es"
+
+keywords:
+  - criptomonedas
+  - gamificacion
+  - politicas publicas
+  - migracion latinoamerica
+  - subsidios verdes
+  - economia del comportamiento
+  - open data
+  - zenodo
