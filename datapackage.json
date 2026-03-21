@@ -1,0 +1,40 @@
+{
+  "name": "base-de-datos-comportamiento-y-politicas-publicas-gamificacion-cripto-sesgos-de-",
+  "title": "Base de datos en formato CSV sobre comportamiento y pol&iacute;ticas p&uacute;blicas, compilada desde fuentes secundarias v&iacute;a Perplexity AI (marzo 2026). Contiene tres m&oacute;dulos: (1) Gamificaci&oacute;n y adopci&oacute;n de criptomonedas ",
+  "description": "Base de datos en formato CSV sobre comportamiento y pol&iacute;ticas p&uacute;blicas, compilada desde fuentes secundarias v&iacute;a Perplexity AI (marzo 2026). Contiene tres m&oacute;dulos: (1) Gamificaci&oacute;n y adopci&oacute;n de criptomonedas ",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "CC0 1.0 Universal",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Juan Moisés de la Serna Tuya",
+      "path": "https://orcid.org/0000-0002-8401-8018",
+      "role": "author",
+      "organization": "Universidad Internacional de La Rioja (UNIR)"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "criptomonedas",
+    "dataset",
+    "economia-del-comportamiento",
+    "gamificacion",
+    "migracion-latinoamerica",
+    "open-data",
+    "politicas-publicas",
+    "subsidios-verdes",
+    "zenodo"
+  ],
+  "sources": [
+    {
+      "title": "Compiled from public sources",
+      "path": "https://github.com/juanmoisesd/base-de-datos-comportamiento-y-politicas-publicas-gamificacion-cripto-sesgos-de-"
+    }
+  ],
+  "created": "2026-03-20"
+}
