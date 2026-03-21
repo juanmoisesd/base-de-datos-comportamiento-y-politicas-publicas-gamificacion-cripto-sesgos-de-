@@ -1,12 +1,14 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "Dataset",
-  "name": "Base de datos: Comportamiento y Políticas Públicas — Gamificación cripto, sesgos de anclaje en subsidios verdes y aversión al riesgo migratorio en Latinoamérica (2022-2025)",
-  "identifier": "10.5281/zenodo.19017501",
-  "url": "https://doi.org/10.5281/zenodo.19017501",
+  "@type": "SoftwareSourceCode",
+  "name": "Base de datos en formato CSV sobre comportamiento y pol&iacute;ticas p&uacute;blicas, compilada desde fuentes secundarias v&iacute;a Perplexity AI (marzo 2026). Contiene tres m&oacute;dulos: (1) Gamificaci&oacute;n y adopci&oacute;n de criptomonedas ",
+  "description": "Base de datos en formato CSV sobre comportamiento y pol&iacute;ticas p&uacute;blicas, compilada desde fuentes secundarias v&iacute;a Perplexity AI (marzo 2026). Contiene tres m&oacute;dulos: (1) Gamificaci&oacute;n y adopci&oacute;n de criptomonedas ",
+  "url": "https://github.com/juanmoisesd/base-de-datos-comportamiento-y-politicas-publicas-gamificacion-cripto-sesgos-de-",
   "codeRepository": "https://github.com/juanmoisesd/base-de-datos-comportamiento-y-politicas-publicas-gamificacion-cripto-sesgos-de-",
-  "sameAs": "https://juanmoisesd.github.io/base-de-datos-comportamiento-y-politicas-publicas-gamificacion-cripto-sesgos-de-/",
-  "description": "Dataset en formato CSV sobre economía del comportamiento aplicada a políticas públicas: gamificación y adopción de criptomonedas, sesgos de anclaje en subsidios verdes y aversión al riesgo migratorio en Latinoamérica (2022-2025). Compilado desde fuentes secundarias vía Perplexity AI (marzo 2026).",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
@@ -16,29 +18,32 @@
       "affiliation": {
         "@type": "Organization",
         "name": "Universidad Internacional de La Rioja (UNIR)"
-      }
+      },
+      "email": "juanmoises.delaserna@unir.net"
     }
   ],
-  "publisher": {
-    "@type": "Organization",
-    "name": "Zenodo"
-  },
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "keywords": [
-    "gamificacion",
+    "cc0",
     "criptomonedas",
-    "politicas publicas",
-    "migracion latinoamerica",
-    "subsidios verdes",
-    "economia del comportamiento",
-    "open data",
-    "latinoamerica"
+    "dataset",
+    "economia-del-comportamiento",
+    "gamificacion",
+    "migracion-latinoamerica",
+    "open-data",
+    "politicas-publicas",
+    "subsidios-verdes",
+    "zenodo"
   ],
-  "datePublished": "2026-03-14",
-  "dateModified": "2026-03-14",
-  "version": "1.0.0",
-  "encodingFormat": "text/csv",
-  "inLanguage": "es",
-  "funding": [],
-  "isAccessibleForFree": true
+  "programmingLanguage": "HTML",
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya"
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  }
 }
