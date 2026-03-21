@@ -1,20 +1,43 @@
-title: "Base de datos: Comportamiento y Políticas Públicas"
-tagline: "Gamificación cripto, sesgos de anclaje en subsidios verdes y aversión al riesgo migratorio en Latinoamérica (2022–2025)"
-description: "Base de datos en formato CSV sobre economía del comportamiento aplicada a políticas públicas: gamificación y adopción de criptomonedas, subsidios verdes y migración en Latinoamérica. Compilada desde fuentes secundarias vía Perplexity AI (marzo 2026)."
-author: "Juan Moisés de la Serna Tuya"
-
+# Jekyll configuration for GitHub Pages
+title: "base-de-datos-comportamiento-y-politicas-publicas-gamificacion-cripto-sesgos-de-"
+description: "Base de datos en formato CSV sobre comportamiento y pol&iacute;ticas p&uacute;blicas, compilada desde fuentes secundarias v&iacute;a Perplexity AI (marzo 2026). Contiene tres m&oacute;dulos: (1) Gamificaci&oacute;n y adopci&oacute;n de criptomonedas "
 url: "https://juanmoisesd.github.io"
 baseurl: "/base-de-datos-comportamiento-y-politicas-publicas-gamificacion-cripto-sesgos-de-"
 
-theme: jekyll-theme-minimal
-lang: "es"
+author:
+  name: "Juan Moisés de la Serna Tuya"
+  orcid: "0000-0002-8401-8018"
+  linkedin: "https://www.linkedin.com/in/juanmoisesdelaserna/"
+  scopus: "26632846700"
+  institution: "Universidad Internacional de La Rioja (UNIR)"
+  email: "juanmoises.delaserna@unir.net"
 
-keywords:
-  - criptomonedas
-  - gamificacion
-  - politicas publicas
-  - migracion latinoamerica
-  - subsidios verdes
-  - economia del comportamiento
-  - open data
-  - zenodo
+# SEO
+tagline: "Open Research Dataset"
+lang: "en"
+
+# Social
+twitter:
+  username: juanmoisesd
+  card: summary
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Build
+theme: minima
+include:
+  - README.md
+  - GLOSSARY.md
+  - ABOUT_THE_AUTHOR.md
+  - CITATION_GUIDE.md
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
