@@ -1,0 +1,11 @@
+cc0, criptomonedas, dataset, economia-del-comportamiento, gamificacion, migracion-latinoamerica, open-data, politicas-publicas, subsidios-verdes, zenodo
+open-data
+dataset
+research
+science
+FAIR
+reproducibility
+open-science
+academic
+citation
+DOI
